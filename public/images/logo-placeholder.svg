@@ -1,0 +1,13 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f3047"/>
+      <stop offset="100%" stop-color="#1e86a1"/>
+    </linearGradient>
+  </defs>
+  <circle cx="110" cy="110" r="105" fill="url(#g1)"/>
+  <circle cx="110" cy="110" r="86" fill="#ffffff" fill-opacity="0.95"/>
+  <path d="M110 64L148 84V118C148 141 131 161 110 166C89 161 72 141 72 118V84L110 64Z" fill="#0f3047"/>
+  <path d="M92 108H128M110 90V126" stroke="#fabc2f" stroke-width="8" stroke-linecap="round"/>
+  <text x="110" y="194" text-anchor="middle" font-size="20" font-family="Arial" fill="#0f3047" font-weight="700">MAPS</text>
+</svg>

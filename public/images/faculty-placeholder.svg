@@ -1,0 +1,6 @@
+<svg width="520" height="420" viewBox="0 0 520 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="420" fill="#eaf7ff"/>
+  <circle cx="260" cy="150" r="62" fill="#79d2f9"/>
+  <rect x="170" y="226" width="180" height="110" rx="55" fill="#79d2f9"/>
+  <text x="260" y="380" text-anchor="middle" font-size="24" font-family="Arial" fill="#0f3047" font-weight="700">Faculty Photo</text>
+</svg>
