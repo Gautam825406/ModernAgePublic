@@ -9,11 +9,30 @@ const handbookMarkdown = `# MODERN AGE PUBLIC SCHOOL MAYURHAND
 
 Yeh handbook hamare school ke sabhi members ke liye hai — Teachers, Students, Staff aur Parents. Ise dhyan se padho aur follow karo. School ek doosra ghar hai — iska samman karo.
 
-## PRINCIPAL KA SANDESH
-Hamari school Modern Age Public School mein aapka dil se swagat hai. Hum ek aisi jagah banate hain jahan har bachcha apne sapne poore kar sake — padhai ke saath saath character, discipline aur values bhi seekhe.
-Yeh handbook sirf rules ki list nahi hai — yeh ek vaada hai. Ek vaada jo hum sab milke karte hain — teachers, students, staff aur parents — ki hum ek behtar, safer aur zyada respectful school environment banayenge.
-Humara Mission: "Har bachche ko best education, discipline aur character ke saath taiyar karna — taki woh ek zimmedar, samajhdar aur accha insaan bane."
+## 🏫 Principal Ka Sandesh
 
+**Modern Age Public School** mein aap sabka dil se swagat hai! 🌟
+
+Yeh ek aisi jagah hai jahan har bachcha apne sapne poore kar sakta hai — sirf padhai hi nahi, balki **character, discipline aur strong values** bhi seekhta hai. Humara maanna hai ki ek accha student banana ke saath-saath ek accha **insaan** banana bhi utna hi zaroori hai.
+
+Yeh handbook sirf rules ki ek list nahi hai — yeh ek **vaada** hai. Ek vaada jo hum sab milke karte hain:
+
+- 👩‍🏫 **Teachers** — jo roz inspire karte hain
+- 🎓 **Students** — jo roz seekhte aur badhte hain
+- 👨‍👩‍👧 **Parents** — jo ghar mein support dete hain
+- 🤝 **Staff** — jo school ko safe aur sundar banate hain
+
+Saath milke hum ek **better, safer aur respectful** school environment banayenge.
+
+---
+
+> 🎯 **Hamara Mission**
+>
+> *"Har bachche ko best education, discipline aur noble character ke saath taiyar karna — taki woh ek zimmedar, samajhdar aur accha insaan ban sake."*
+
+---
+
+*Aao, milke is safar ko khaas banayein.* 🌱
 ---
 
 # PART 1: GENERAL RULES
