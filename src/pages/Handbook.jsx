@@ -9,7 +9,7 @@ const handbookMarkdown = `# MODERN AGE PUBLIC SCHOOL MAYURHAND
 
 Yeh handbook hamare school ke sabhi members ke liye hai — Teachers, Students, Staff aur Parents. Ise dhyan se padho aur follow karo. School ek doosra ghar hai — iska samman karo.
 
-## 🏫 Principal Ka Sandesh
+## 🏫 Principal's Message
 
 **Modern Age Public School** mein aap sabka dil se swagat hai! 🌟
 
