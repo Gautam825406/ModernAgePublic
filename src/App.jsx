@@ -10,6 +10,7 @@ import StudentLife from './pages/StudentLife'
 import Gallery from './pages/Gallery'
 import Notices from './pages/Notices'
 import Contact from './pages/Contact'
+import Handbook from './pages/Handbook'
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         <Route path="/student-life" element={<StudentLife />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/notices" element={<Notices />} />
+        <Route path="/handbook" element={<Handbook />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Route>

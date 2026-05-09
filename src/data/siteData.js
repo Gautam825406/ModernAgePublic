@@ -1,11 +1,17 @@
 import annualDayImg from '../assets/anualday.jpg'
-import bannerCopyImg from '../assets/bannar copy.jpg'
 import bannerHeroImg from '../assets/bannar.jpg'
 import campusImg from '../assets/campus.jpg'
 import classroomImg from '../assets/classroom.jpg'
 import campusLifeImg from '../assets/image.png'
 import heroLabImg from '../assets/hero.png'
 import studentGroupImg from '../assets/img.jpg'
+import img01 from '../assets/01.jpg'
+import img02 from '../assets/02.jpg'
+import img03 from '../assets/03.jpg'
+import img04 from '../assets/04.jpg'
+import img05 from '../assets/05.jpg'
+import img06 from '../assets/06.jpg'
+import img07 from '../assets/07.jpg'
 
 export const schoolProfile = {
   name: 'Modern Age Public School, Mayurhand',
@@ -29,6 +35,7 @@ export const navLinks = [
   { label: 'Student Life', path: '/student-life' },
   { label: 'Gallery', path: '/gallery' },
   { label: 'Notices', path: '/notices' },
+  { label: 'Handbook', path: '/handbook' },
 ]
 
 export const quickHighlights = [
@@ -362,9 +369,15 @@ export const galleryItems = [
   { title: 'Interactive Classroom Session', category: 'Classrooms', image: classroomImg },
   { title: 'Science & Innovation Lab', category: 'Facilities', image: heroLabImg },
   { title: 'Student Leadership Meet', category: 'Student Life', image: studentGroupImg },
-  { title: 'Sports & Fitness Drive', category: 'Sports', image: bannerCopyImg },
-  { title: 'Admissions Showcase', category: 'Events', image: bannerHeroImg },
-  { title: 'Art & Culture Wall', category: 'Campus Life', image: campusLifeImg },
+  { title: 'Sports & Fitness Drive', category: 'Sports', image: bannerHeroImg },
+  { title: 'Admissions Showcase', category: 'Events', image: campusLifeImg },
+  { title: 'Art & Culture Wall', category: 'Campus Life', image: img01 },
+  { title: 'School Assembly', category: 'Events', image: img02 },
+  { title: 'Outdoor Learning', category: 'Academics', image: img03 },
+  { title: 'Sports Day Activities', category: 'Sports', image: img04 },
+  { title: 'Science Exhibition', category: 'Academics', image: img05 },
+  { title: 'Cultural Program', category: 'Events', image: img06 },
+  { title: 'Campus Facilities', category: 'Campus', image: img07 },
 ]
 
 export const facultyMembers = [
