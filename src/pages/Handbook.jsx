@@ -9,7 +9,7 @@ const handbookMarkdown = `# MODERN AGE PUBLIC SCHOOL MAYURHAND
 
 Yeh handbook hamare school ke sabhi priy sadasyoon ke liye — Teachers, Students, Staff aur Parents — pyaar aur samman ke saath taiyar ki gayi hai. Hum ummeed karte hain ki aap ise dhyan se padhenge aur isko apne dil se follow karenge. Hamara school ek doosra ghar hai — aur ghar ko hum milke sundar aur safe banate hain.
 
-## 🏫 Principal Ka Sandesh
+## 🏫 PRINCIPAL'S MESSAGE
 
 **Modern Age Public School, Mayurhand** ke sabhi priy vidyaarthiyon, shikshakoon, abhivaavakoon aur staff sadasyon — aap sabka dil ki gehraaiyon se haardik swagat hai! 🌟
 
