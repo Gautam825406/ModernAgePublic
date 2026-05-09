@@ -3,495 +3,498 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 
 const handbookMarkdown = `# MODERN AGE PUBLIC SCHOOL MAYURHAND
-## Rules, Regulations & Code of Conduct Rules
+## Rules, Regulations & Code of Conduct
 ### "Gyan, Discipline aur Samman ka Mandir"
 #### Academic Year 2026-27
 
-Yeh handbook hamare school ke sabhi members ke liye hai — Teachers, Students, Staff aur Parents. Ise dhyan se padho aur follow karo. School ek doosra ghar hai — iska samman karo.
+Yeh handbook hamare school ke sabhi priy sadasyoon ke liye — Teachers, Students, Staff aur Parents — pyaar aur samman ke saath taiyar ki gayi hai. Hum ummeed karte hain ki aap ise dhyan se padhenge aur isko apne dil se follow karenge. Hamara school ek doosra ghar hai — aur ghar ko hum milke sundar aur safe banate hain.
 
-## 🏫 Principal's Message
+## 🏫 Principal Ka Sandesh
 
-**Modern Age Public School** mein aap sabka dil se swagat hai! 🌟
+**Modern Age Public School, Mayurhand** ke sabhi priy vidyaarthiyon, shikshakoon, abhivaavakoon aur staff sadasyon — aap sabka dil ki gehraaiyon se haardik swagat hai! 🌟
 
-Yeh ek aisi jagah hai jahan har bachcha apne sapne poore kar sakta hai — sirf padhai hi nahi, balki **character, discipline aur strong values** bhi seekhta hai. Humara maanna hai ki ek accha student banana ke saath-saath ek accha **insaan** banana bhi utna hi zaroori hai.
+Yeh ek aisi pavitra jagah hai jahan har bachcha apne sapne poore kar sakta hai — sirf padhai hi nahi, balki **nek character, sachchi discipline aur jeevan-bhar kaam aane waali values** bhi seekhta hai. Hamara dridh vishwaas hai ki ek accha student banana ke saath-saath ek accha **insaan** banana bhi utna hi zaroori hai — shayad usse bhi zyaada.
 
-Yeh handbook sirf rules ki ek list nahi hai — yeh ek **vaada** hai. Ek vaada jo hum sab milke karte hain:
+Yeh handbook sirf rules ki ek sookhi list nahi hai — yeh ek **vaada** hai, ek **ahad** hai. Ek vaada jo hum sab milke, khushi se karte hain:
 
-- 👩‍🏫 **Teachers** — jo roz inspire karte hain
-- 🎓 **Students** — jo roz seekhte aur badhte hain
-- 👨‍👩‍👧 **Parents** — jo ghar mein support dete hain
-- 🤝 **Staff** — jo school ko safe aur sundar banate hain
+- 👩‍🏫 **Hamare Priy Teachers** — jo roz apna best dekar hamare bacchon ko inspire karte hain
+- 🎓 **Hamare Hoshiyaar Students** — jo roz seekhte, badhte aur school ka naam roshan karte hain
+- 👨‍👩‍👧 **Hamare Sammanit Parents** — jo ghar mein ek solid foundation provide karte hain
+- 🤝 **Hamare Mehnat-kash Staff** — jo school ko saaf, safe aur sundar banaye rakhte hain
 
-Saath milke hum ek **better, safer aur respectful** school environment banayenge.
+Saath milke hum ek **behtar, safer aur deeply respectful** school parivaar banayenge — jahan har koi apne aap ko valued aur respected feel kare.
 
 ---
 
 > 🎯 **Hamara Mission**
 >
-> *"Har bachche ko best education, discipline aur noble character ke saath taiyar karna — taki woh ek zimmedar, samajhdar aur accha insaan ban sake."*
+> *"Har bachche ko uchch-stariya education, pakki discipline aur nek character ke saath taiyar karna — taki woh ek zimmedar, samajhdar, compassionate aur accha insaan ban sake jo apne parivaar, samaj aur desh ka gaurav badhaye."*
 
 ---
 
-*Aao, milke is safar ko khaas banayein.* 🌱
+*Aao, milke is sundar safar ko aur bhi khaas banayein.* 🌱
+
+*— Director, Modern Age Public School, Mayurhand*
+
 ---
 
-# PART 1: GENERAL RULES
-### (Yeh Rules SABKE Liye Hain — Bina Kisi Exception Ke)
+# PART 1: SAMANYA NIYAM
+### (Yeh Niyam Sabke Liye Hain — Teachers, Students, Staff aur Parents — Bina Kisi Exception Ke)
 
 ## 1. Dress Code & Uniform
 
-- Prescribed uniform — Monday to Saturday — **compulsory sabke liye**
-- ID Card — **har waqt** pehenna zaroori — bina ID card **entry NAHI**
-- Torn, dirty, oversized uniform — strict action hoga
-- Teachers & Staff — formal, decent professional dress — no jeans, no casual wear
-- No colored hair, no nail polish, no fancy accessories — anyone ke liye nahi
+- Prescribed uniform Monday se Saturday tak — **sabke liye compulsory hai** — yeh hamare school ki pehchaan hai
+- ID Card — **har waqt** saath rakhna aur pehenna zaroori hai — bina ID card school mein **entry sambhav nahi hogi**
+- Torn, dirty ya oversized uniform mein aana — school ki image ke liye sahi nahi, strict action liya jaayega
+- Teachers & Staff — formal, decent professional dress — jeans ya casual wear please avoid karein
+- Colored hair, nail polish ya fancy accessories — kisi ke liye bhi school mein appropriate nahi hain
 
 ## 2. Mobile & Electronic Devices
 
-- Students ke liye mobile — **STRICTLY PROHIBITED**
-- Confiscate hoga — parents ko bulake return hoga
-- 2nd time: 3 din suspension
-- 3rd time: TC possible
-- Teachers — class mein phone **silent/off** rakhenge
-- Smart watch, earphones, gaming devices — all banned for students
+- Students ke liye mobile phone school mein laana — **STRICTLY PROHIBITED** hai
+- Phone milne par confiscate kiya jaayega — parents ko bulaakar hi return hoga
+- 2nd baar milne par: 3 din ka suspension hoga
+- 3rd baar: TC issue ki ja sakti hai
+- Teachers se request hai ki apna phone class ke dauran **silent/off** rakhein
+- Smart watch, earphones, gaming devices — students ke liye sabhi banned hain
 
-## 3. School Property
+## 3. School Property ki Dekhbhaal
 
-- Walls, benches, doors, bathrooms — damage karna **banned**
-- Graffiti, scratching — serious offence
-- Damage karne par **repair cost** liya jaayega
-- Library books, lab equipment — carefully use karo, time pe return karo
+- Walls, benches, doors, bathrooms ko damage karna — **bilkul allowed nahi** — yeh hamari shared property hai
+- Graffiti ya scratching — serious offence maana jaayega
+- Kisi bhi cheez ko damage karne par **repair cost** leni padegi
+- Library books aur lab equipment — please carefully use karein aur time pe return karein
 
-## 4. Cleanliness & Hygiene
+## 4. Saafi-Safai & Swachhata
 
-- Dustbin use karo — floor par kuch nahi phenkna
-- Classroom, corridor, bathroom — saaf rakho
-- Personal hygiene maintain karo daily
-- Spitting anywhere — **completely banned**
+- Dustbin ka hi istemal karein — floor par kuch bhi phenkna — please avoid karein
+- Classroom, corridor, bathroom — saaf rakhna hamaari shared zimmedaari hai
+- Personal hygiene daily maintain karein — yeh aapke apne aap ke liye bhi zaroori hai
+- Kahin bhi thookna — **completely banned** hai
 
-## 5. Language & Behaviour
+## 5. Bhasha & Vyavahaar
 
-- Abusive, vulgar language — **zero tolerance**
-- Seniors ko "Sir/Ma'am" — compulsory
-- Caste, religion, gender ke baare mein comments — zero tolerance
-- Shouting, aggressive behaviour — not acceptable anywhere
+- Abusive ya vulgar language — **zero tolerance** — yeh kisi ke liye bhi acceptable nahi
+- Seniors aur teachers ko "Sir/Ma'am" kehna — ek acchi tarbiyat ki nishani hai, compulsory hai
+- Caste, religion ya gender ke baare mein koi bhi negative comment — **zero tolerance**
+- Shouting ya aggressive behaviour — kisi bhi jagah acceptable nahi
 
-## 6. Zero Tolerance Policy — Sabke Liye
+## 6. Zero Tolerance Policy — Sabke Liye Saman Roop Se
 
-Yeh kaam karne par **turant strict action**:
+Niche diye gaye kaam karne par **turant aur strict action** liya jaayega — koi bhi exception nahi hogi:
 
-- ❌ Bullying — kisi bhi form mein
-- ❌ Ragging — **immediate expulsion**
-- ❌ Sexual harassment — **expulsion + police**
-- ❌ Drugs, alcohol, tobacco — **expulsion + police**
-- ❌ Violence, weapons — **expulsion + legal action**
+- ❌ Bullying — kisi bhi form mein — bilkul nahi
+- ❌ Ragging — **immediate expulsion** hogi
+- ❌ Sexual harassment — **expulsion + police complaint**
+- ❌ Drugs, alcohol, tobacco — **expulsion + police complaint**
+- ❌ Violence ya weapons — **expulsion + legal action**
 - ❌ Theft — suspension + police complaint
 - ❌ Cheating in exams — fail + disciplinary action
 
 ---
 
-# PART 2: STUDENTS KE LIYE NIYAM
-### (Sirf Students Par Laagu)
+# PART 2: VIDYAARTHIYON KE LIYE VISHESH NIYAM
+### (Hamare Priy Students — Yeh Niyam Aapke Ujjwal Bhavishya Ke Liye Hain)
 
-## 1. Attendance & Punctuality
+## 1. Upasthiti & Samay-Paaltu
 
-- **75% attendance COMPULSORY** — isse kam = exams nahi dene diye jaayenge
-- Absent hone par **leave application** — parents ke signature ke saath
-- 3+ din absent = **medical certificate** zaroori
-- 7 din bina leave absent = **TC issue** ho sakti hai
-- Family function/planned leave = **3 din pehle** Principal se written permission
-- Miss hua homework complete karna — **student ki zimmedaari**
+- **75% attendance COMPULSORY** hai — isse kam attendance hone par aap exams mein baithne se vanchit ho sakte hain
+- Absent hone par **leave application** — parents ke signature ke saath — zaroor bhejein
+- 3 ya usse zyaada din absent — **medical certificate** laana compulsory hoga
+- 7 din bina kisi suchna ke absent — **TC issue** ho sakti hai
+- Family function ya planned leave ke liye — **3 din pehle** Principal se written permission lein
+- Absence mein jo kaam miss hua — usse complete karna **apni khud ki zimmedaari** hai
 
-## 2. Classroom Conduct
+## 2. Kaksha Mein Acharan
 
-**✅ Karo:**
-- Teacher ke aane se pehle seat par baitho
-- Sawaal ka jawab — politely, uthke khade hokar do
-- Homework roz karo — diary mein parents se sign karwao
-- Class mein actively participate karo
-- Doubt ho toh after class teacher se poochho
+**✅ Please Zaroor Karein:**
+- Teacher ke aane se pehle apni seat par baith jaayein
+- Sawaal ka jawab — politely, uthke khade hokar dein
+- Homework roz karein — diary mein parents se sign karwaayein
+- Class mein actively aur enthusiastically participate karein
+- Koi doubt ho toh class ke baad teacher se zaroor poochhein
 
-**❌ Mat Karo:**
-- Class mein sona, gappe maarna, phone use karna
-- Teacher ki permission ke bina bahar jaana
-- Kisi ki copy dekhna ya cheating karna
-- Doosron ko disturb karna, shor karna
-- Food/drink (except water) class mein laana
-- Teacher ko disrespect karna
+**❌ Please Avoid Karein:**
+- Class mein sona, gappe maarna ya phone use karna
+- Teacher ki anumati ke bina bahar jaana
+- Kisi ki copy dekhna ya kisi bhi form mein cheating karna
+- Doosron ko disturb karna ya unnecessary shor machangi
+- Food/drink (paani ke alawa) class mein laana
+- Teacher ya kisi bhi senior ko disrespect karna
 
 ## 3. Homework & Assignments
 
-- Homework nahi kiya:
-  - 1st time: Warning
-  - 2nd time: Parents informed
-  - 3rd time: Detention
-- Assignment deadlines — late submission par marks katte jaayenge
-- Dusron ka kaam copy karna — **strictly banned**
-- Exam timetable — **2 hafte pehle** announce hoga
+- Homework nahi karne par yeh hoga:
+  - 1st baar: Pyaar se samjhaakar warning di jaayegi
+  - 2nd baar: Parents ko inform kiya jaayega
+  - 3rd baar: Detention hogi
+- Assignment deadlines — late submission par marks katte jaayenge, please time pe submit karein
+- Doosron ka kaam copy karna — **strictly banned** aur character ke against hai
+- Exam timetable — **2 hafte pehle** announce kiya jaayega
 
-## 4. Library Rules
+## 4. Library Ke Niyam
 
 - Ek baar mein sirf **2 books** issue hongi
-- Return: **14 din ke andar** — late fine Rs. 5/- per day
-- Library mein **bilkul shant** rehna
-- Books fold, highlight ya damage mat karo
-- Library card hamesha saath laao
+- Return: **14 din ke andar** — late fine Rs. 5/- per day lagegi
+- Library mein **shanti** banaaye rakhna — yeh seekhne ki jagah hai
+- Books ko fold, highlight ya damage mat karein — doosron ne bhi padhna hai
+- Library card hamesha saath laayein
 
-## 5. Lab Rules (Science / Computer)
+## 5. Lab Ke Niyam (Science / Computer)
 
-- Teacher ke bina lab mein **enter nahi karna**
-- Lab coat — jahan required — compulsory
-- Chemicals bina permission touch mat karo
-- Computer lab: Sirf educational websites — social media, games — **banned**
-- Equipment damage = replacement cost student se li jaayegi
+- Teacher ke aane se pehle lab mein **enter nahi karna** — safety sabse pehle
+- Lab coat — jahan required ho — compulsory hai
+- Chemicals ko bina teacher ki permission ke touch mat karein
+- Computer lab: Sirf educational websites — social media ya games — **allowed nahi**
+- Equipment damage hone par replacement cost student se li jaayegi
 
-## 6. Exam Rules
+## 6. Pariksha Ke Niyam
 
-- Cheating material laana — **ZERO TOLERANCE**
-- Roll number — clearly likhna compulsory
-- Kisi ka answer sheet dekhna/dikhana — exam cancel + action
-- Calculator/books — sirf jahan specifically allowed ho
+- Cheating material laana — **ZERO TOLERANCE** — ek baar bhi nahi
+- Roll number — clearly likhna compulsory hai
+- Kisi ka answer sheet dekhna ya dikhana — exam cancel + action hoga
+- Calculator ya books — sirf jahan specifically allowed ho, wahan hi
 - Results — **10 working days** mein announce honge
 
-## 7. Sports & Activities
+## 7. Khel-Kood & Gatividhiyaan
 
-- Sports period mein sports uniform — compulsory
-- Injury hone par — turant teacher/nurse ko batao
-- Annual Sports Day participation — **compulsory**
-- Cultural events, clubs, competitions — actively participate karo
+- Sports period mein sports uniform — compulsory hai
+- Koi bhi injury hone par — turant teacher ya nurse ko batayein
+- Annual Sports Day mein participation — **compulsory** hai
+- Cultural events, clubs, competitions — actively participate karein — yeh aapka all-round development hai
 
-## 8. Students ki Special Responsibilities
+## 8. Students Ki Vishesh Zimmedaariyaan
 
 | Role | Zimmedaari |
 |---|---|
-| **Class Monitor** | Attendance register, discipline, teacher assist karna |
-| **House Captain** | House events, sports, competitions lead karna |
-| **School Prefect** | Junior students ki help, school discipline |
-| **Eco Warrior** | Campus clean aur green rakhna |
-| **Library Helper** | Books arrange karna, library maintain |
+| **Class Monitor** | Attendance register, discipline maintain karna, teacher ki assist karna |
+| **House Captain** | House events, sports, competitions mein leadership lena |
+| **School Prefect** | Junior students ki help karna, school discipline maintain karna |
+| **Eco Warrior** | Campus ko clean aur green banaye rakhna |
+| **Library Helper** | Books arrange karna, library ko organized maintain karna |
 
-## ✅ Students — Do's & Don'ts Summary
+## ✅ Students — Karo & Mat Karo Ka Saraansh
 
-| ✅ Karo | ❌ Mat Karo |
+| ✅ Zaroor Karein | ❌ Please Avoid Karein |
 |---|---|
-| Roz school aao — attendance poori rakho | Late aao ya bhaago classes se |
-| Homework roz karo | Cheating karo kisi bhi form mein |
-| Sabse izzat se baat karo | Bully ya taunt karo kisi ko |
-| Library use karo | Lab mein bina permission jaao |
-| Sports mein participate karo | Mobile school mein laao |
-| Problem batao teacher ko | Rumours failaao |
-| School saaf rakho | Property damage karo |
+| Roz school aayein — attendance poori rakhein | Late aayein ya classes se bhaagein |
+| Homework roz karein | Kisi bhi form mein cheating karein |
+| Sabse izzat se baat karein | Kisi ko bully ya taunt karein |
+| Library ka sahi istemal karein | Lab mein bina permission jaayein |
+| Sports mein participate karein | Mobile school mein laayein |
+| Problems teacher ko batayein | Rumours failaayein |
+| School ko saaf rakhein | Property damage karein |
 
 ---
 
-# PART 3: TEACHERS KE LIYE NIYAM
-### (Sirf Teachers Par Laagu)
+# PART 3: SHIKSHAKOON KE LIYE VISHESH NIYAM
+### (Hamare Sammanit Teachers — Aap Hamare School Ki Asli Shakti Hain)
 
-## 1. Attendance & Punctuality
+## 1. Upasthiti & Samay-Paaltu
 
-- School se **pehle aana** zaroori hai — time pe apni class mein maujood raho
-- Biometric attendance — **compulsory, proxy allowed nahi**
-- Apni class se bina permission bahar nahi jaana
-- Lesson Plan — **weekly basis** par VP ko submit karna
+- School shuru hone se **pehle aana** — aur time pe apni class mein maujood rehna — professional responsibility hai
+- Biometric attendance — **compulsory hai, proxy bilkul allowed nahi**
+- Apni class se bina office permission ke bahar nahi jaana
+- Lesson Plan — **weekly basis** par Vice Principal ko submit karna zaroori hai
 
-## 2. Professional Conduct
+## 2. Aadarshpurna Acharan (Professional Conduct)
 
-- Professional dress code — no casual wear, no jeans
-- School ke baare mein negative comments social media par — **strictly banned**
-- Students/parents ke saath personal friendship outside school — **maintain nahi karna**
-- Kisi bhi student ke saath **partial ya biased behaviour — zero tolerance**
-- Sab students ko equal treat karna — favourite banana nahi
+- Professional dress code follow karein — yeh students ke liye ek role model jaisa kaam karta hai
+- School ke baare mein negative comments social media par dalna — **strictly banned** hai — please avoid karein
+- Students ya parents ke saath personal friendship school ke baahir — professional boundaries maintain rakhein
+- Kisi bhi student ke saath **partial ya biased behaviour — zero tolerance** — sabko equal opportunity milni chahiye
+- Sabhi students ko samaan respect aur dhyaan dein — koi "favourite" nahi hona chahiye
 
-## 3. Teaching Responsibilities
+## 3. Padhane Ki Zimmedaariyaan
 
-**✅ Karo:**
-- Academic calendar ke hisaab se syllabus **time pe complete** karo
-- Homework check karo — feedback do — **3 days mein return** karo
-- Weak students ko extra attention, **remedial classes** do
-- Progress records maintain karo — digital + physical dono
-- Innovative teaching methods use karo
-- Students ke doubts patiently clear karo
+**✅ Hamare Priy Teachers — Please Zaroor Karein:**
+- Academic calendar ke hisaab se syllabus **time pe aur effectively complete** karein
+- Homework check karein — constructive feedback dein — **3 din ke andar return** karein
+- Weak students ko extra attention dein — **remedial classes** arrange karein — koi peeche nahi chhootna chahiye
+- Progress records digital aur physical dono format mein maintain karein
+- Innovative aur engaging teaching methods use karein — students ko seekhna achha lage
+- Students ke doubts ko patiently aur kindly clear karein — unka confidence badhayein
 
-**❌ Mat Karo:**
-- Class ke dauran **personal phone use** — strictly prohibited
-- Students ko **physically punish** karna — legally banned, terminatable offence
-- Students ki **humiliation, sarcasm** — not acceptable
-- Marks mein **manipulation ya favouritism** — serious misconduct
-- Students ko **extra tuition ke liye force** karna — unethical
-- **Exam papers leak** karna — termination + FIR
+**❌ Please Avoid Karein:**
+- Class ke dauran **personal phone use** — students ka dhyaan bant-ta hai, strictly prohibited hai
+- Students ko **kisi bhi form mein physically punish** karna — yeh legally banned aur terminatable offence hai
+- Students ki **humiliation ya sarcasm** — yeh unka confidence toda karta hai, please avoid karein
+- Marks mein **manipulation ya favouritism** — yeh serious professional misconduct hai
+- Students ko **private tuition ke liye force** karna — yeh unethical hai aur allowed nahi
+- **Exam papers leak** karna — yeh ek gambheer apraadh hai — termination + FIR hogi
 
-## 4. Leave Policy
+## 4. Chutti Ka Niyam (Leave Policy)
 
-| Leave Type | Entitlement |
+| Chutti Ka Prakar | Haqqdaari |
 |---|---|
-| Casual Leave | 12 days per year |
-| Medical/Sick Leave | 14 days per year |
-| Maternity Leave | As per government rules |
-| Study Leave | Principal approval ke baad |
+| Casual Leave | 12 din per year |
+| Medical/Sick Leave | 14 din per year |
+| Maternity Leave | Government rules ke anusar |
+| Study Leave | Principal ki approval ke baad |
 
-- Leave application — **2 din pehle** deni hogi
-- Medical leave mein — **doctor's certificate** mandatory
-- Unauthorized absence — **salary deduction**
-- Leave ke dauran — **substitute arrange karna teacher ki zimmedaari**
+- Leave application — **2 din pehle** deni hogi — please advance plan karein
+- Medical leave mein — **doctor's certificate** compulsory hai
+- Bina bataye absent rehna — **salary deduction** hogi
+- Leave ke dauran — **substitute arrange karna teacher ki zimmedaari** hai — students ka nuksaan nahi hona chahiye
 
 ## 5. Parent-Teacher Communication
 
-- PTM mein — **compulsory attendance**
-- Parents ko progress report — clearly, honestly, constructively batao
-- Social media par parents se personal communication — **avoid karo**
-- Negative information (fail, behaviour) — sensitively communicate karo — insult nahi
-- Home visits — school permission ke bina **allowed nahi**
-- Complaints/concerns ka **written record** rakhna zaroori
+- PTM (Parent-Teacher Meeting) mein — **compulsory attendance** hai
+- Parents ko progress report — clearly, honestly aur constructively batayein — positive angle bhi zaroor include karein
+- Social media par parents se personal communication — **please avoid karein**
+- Negative information (fail hona, behaviour issues) — sensitively aur privately communicate karein — insult ya embarrassment nahi honi chahiye
+- Home visits — school ki permission ke bina **allowed nahi**
+- Sabhi complaints aur concerns ka **written record** rakhna zaroori hai
 
-## 6. Exam Duties
+## 6. Pariksha Sambandhi Duties
 
-- Question papers — **confidential** — leakage = termination + FIR
-- Answer sheets ki evaluation — **10 days ke andar**
-- Grace marks — sirf **Principal approval** ke baad
-- Invigilation duty — strictly supervise karo
-- Results — school database mein **3 days mein update** karo
+- Question papers — **strictly confidential** — kisi bhi form mein leakage = termination + FIR
+- Answer sheets ki evaluation — **10 din ke andar** complete karein
+- Grace marks — sirf **Principal ki approval** ke baad diye jaayein
+- Invigilation duty — poori fairness se aur strictly supervise karein
+- Results — school database mein **3 din ke andar update** karein
 
-## 7. Teachers ki Detailed Role Chart
+## 7. Teachers Ki Bhoomika Taालिका
 
-| Role | Zimmedaari |
+| Bhumika (Role) | Zimmedaari |
 |---|---|
 | **Class Incharge** | Attendance, cleanliness, notice board, student records |
-| **Subject Teacher** | Syllabus, unit tests, assignments, progress |
-| **Duty Teacher** | Assembly, recess, gate duty — rotate basis |
-| **Lab Incharge** | Lab safety, equipment, practical records |
-| **Sports Teacher** | Sports periods, annual sports day, inter-school |
+| **Subject Teacher** | Syllabus, unit tests, assignments, progress tracking |
+| **Duty Teacher** | Assembly, recess, gate duty — rotate basis par |
+| **Lab Incharge** | Lab safety, equipment management, practical records |
+| **Sports Teacher** | Sports periods, annual sports day, inter-school competitions |
 | **Event Coordinator** | Annual function, cultural events, competitions |
-| **Counselor** | Student emotional/academic problems, guidance |
-| **Library Incharge** | Books management, issue/return, reading culture |
+| **Counselor** | Student emotional aur academic problems mein guidance |
+| **Library Incharge** | Books management, issue/return, reading culture promote karna |
 | **Exam Coordinator** | Timetable, seating, paper management, results |
 
-## ✅ Teachers — Do's & Don'ts Summary
+## ✅ Teachers — Karo & Mat Karo Ka Saraansh
 
-| ✅ Karo | ❌ Mat Karo |
+| ✅ Zaroor Karein | ❌ Please Avoid Karein |
 |---|---|
-| Time pe aao — apni class mein maujood raho | Phone use karo class mein |
-| Lesson plan weekly submit karo | Students ko physically punish karo |
-| Homework 3 days mein return karo | Exam papers leak karo |
-| Weak students ki help karo | Partial/biased behaviour rakho |
-| PTM mein zaroor aao | Social media par parents se personal chat karo |
-| Records properly maintain karo | Students ko humiliate karo |
-| Substitute arrange karo leave mein | Bina permission leave lo |
+| Time pe aayein — apni class mein maujood rahein | Phone use karein class ke dauran |
+| Lesson plan weekly submit karein | Students ko physically punish karein |
+| Homework 3 din mein return karein | Exam papers leak karein |
+| Weak students ki help karein | Partial ya biased behaviour rakhein |
+| PTM mein zaroor aayein | Social media par parents se personal chat karein |
+| Records properly maintain karein | Students ko humiliate karein |
+| Substitute arrange karein leave mein | Bina permission leave lein |
 
 ---
 
 # PART 4: NON-TEACHING STAFF KE LIYE NIYAM
-### (Admin Staff, Peon, Security, Bus Driver — Sabke Alag Rules)
+### (Admin Staff, Peon, Security, Bus Driver — Aap Sab Is School Ki Reedh Hain)
 
 ## 4A. Administrative Staff
 
-**Zimmedaariyan:**
-- Admission, TC, certificates — **properly aur timely** process karo
-- Fees collection — proper receipt do, records maintain karo
-- School records — **confidential** rakhna — unauthorized access nahi dena
-- Visitors ko properly register karo — **visitor log maintain** karo
-- Phone calls — **professionally** answer karo, polite tone compulsory
+**Zimmedaariyaan:**
+- Admission, TC, certificates — **properly aur samay par** process karein
+- Fees collection — proper receipt dein, records accurately maintain karein
+- School records — **confidential** rakhna — unauthorized access dena allowed nahi
+- Visitors ko properly register karein — **visitor log accurately maintain** karein
+- Phone calls — **professionally** answer karein — polite tone hamaari pehchaan hai
 
-**Rules:**
-- Biometric attendance — **compulsory daily**
-- Office mein cleanliness aur organization maintain karo
-- Personal data leak karna — **termination + legal action**
-- Personal calls office hours mein minimum rakho
+**Niyam:**
+- Biometric attendance — **roz compulsory** hai
+- Office mein cleanliness aur organization banaaye rakhein
+- Personal data leak karna — **termination + legal action** hogi
+- Office hours mein personal calls minimum rakhein
 
 ## 4B. Peon / Housekeeping Staff
 
-**Daily Duties:**
-- Classrooms, corridors, bathrooms, library — **daily cleaning compulsory**
+**Roz Ki Duties:**
+- Classrooms, corridors, bathrooms, library — **roz saaf karna compulsory** hai
 - School ground — weekly deep cleaning
-- Teachers ko material (chalk, duster) — **promptly deliver** karo
-- Principal ke official errands — **promptly complete** karo
+- Teachers ko material (chalk, duster etc.) — **promptly deliver** karein
+- Principal ke official errands — **samay par complete** karein
 
-**Rules:**
-- Class ke dauran corridor mein **shor mat karo**
-- Students ko bina reason bahar mat aane do
-- Personal kaam school time mein **mat karo**
-- Uniform dress code — **har waqt follow** karo
+**Niyam:**
+- Class ke dauran corridor mein **shor mat karein** — padhaai disturb hoti hai
+- Students ko bina kisi karan bahar mat aane dein
+- Personal kaam school time mein **mat karein**
+- Uniform dress code — **har waqt follow** karein
 
 ## 4C. Security Guard
 
 **Primary Duties:**
-- Gate par **EVERY visitor ka ID check** — bina exception ke
-- **Visitor log maintain** karo — naam, time in/out, purpose
-- Unauthorized persons — **entry mat dene do**
-- Students ko school ke baad — **bina permission bahar mat jaane do**
-- CCTV cameras — **daily working check** karo
-- Premises ka round — **regularly** karo
-- Emergency mein — **turant Principal/office** ko inform karo
+- Gate par **EVERY visitor ka ID check** — bina kisi exception ke
+- **Visitor log maintain** karein — naam, time in/out, purpose sab likhen
+- Unauthorized persons ko — **entry bilkul nahi deni**
+- Students ko school ke baad — **bina written permission bahar nahi jaane dena**
+- CCTV cameras — **roz working check** karein
+- Premises ka round — **regularly** lagaayein
+- Kisi bhi emergency mein — **turant Principal/office** ko inform karein
 
-**Rules:**
-- Post pe sote hue mila — **strict action hoga**
-- Uniform aur ID badge — **har waqt pehenna compulsory**
-- Students/parents ke saath rude behaviour — **not acceptable**
-- Suspicious activity — **immediate report karo, khud action mat lo**
+**Niyam:**
+- Duty post par sote hue mile — **strict action hoga**
+- Uniform aur ID badge — **har waqt pehenna compulsory** hai
+- Students ya parents ke saath rude behaviour — **acceptable nahi** hai
+- Suspicious activity — **turant report karein, khud action mat lein**
 
 ## 4D. Bus Driver / Van Staff
 
-**Driving Rules:**
-- Driving licence aur vehicle papers — **hamesha updated aur saath**
-- Sab students ke baith jaane ke baad **hi gaadi chalana**
-- **Phone use while driving — strictly banned**
-- Alcohol/drugs — **zero tolerance — turant termination + legal action**
-- Route change — **school permission ke bina nahi**
+**Driving Niyam:**
+- Driving licence aur vehicle papers — **hamesha updated aur saath** rakhein
+- Sab students ke safely baith jaane ke baad **hi gaadi chalaayein**
+- **Driving ke dauran phone use — strictly banned** hai — yeh bacchon ki jaan ka sawaal hai
+- Alcohol ya drugs — **zero tolerance — turant termination + legal action**
+- Route change — **school ki permission ke bina nahi** hogi
 
-**Student Safety:**
-- Students ki attendance — **aate aur jaate waqt** — daily maintain karo
-- Koi student nahi aaya — **parents aur school ko turant inform** karo
-- Students ke saath rough/abusive behaviour — **termination**
-- First aid kit + emergency numbers — **bus mein hamesha** rakho
-- Vehicle ki daily safety check — brakes, tyres, lights — **compulsory**
+**Students Ki Suraksha:**
+- Students ki attendance — **aate aur jaate waqt** — roz maintain karein
+- Koi student nahi aaya — **parents aur school ko turant inform** karein
+- Students ke saath rough ya abusive behaviour — **termination** hogi
+- First aid kit + emergency numbers — **bus mein hamesha** rakhein
+- Vehicle ki daily safety check — brakes, tyres, lights — **compulsory** hai — bacchon ki safety hamaari zimmedaari hai
 
-## ✅ Staff — Do's & Don'ts Summary
+## ✅ Staff — Karo & Mat Karo Ka Saraansh
 
-| ✅ Karo | ❌ Mat Karo |
+| ✅ Zaroor Karein | ❌ Please Avoid Karein |
 |---|---|
-| Biometric attendance daily submit karo | Proxy attendance mat do |
-| School records confidential rakho | Unauthorized log ko data mat do |
-| Visitors ko properly register karo | Kisi ko bina check andar mat aane do |
-| Polite tone maintain karo | Rude ya aggressive mat bano |
-| Uniform har waqt pehno | Personal kaam school time mein mat karo |
-| Emergency mein turant report karo | Suspicious activity ignore mat karo |
-| Vehicle daily check karo (driver) | Driving ke dauran phone mat use karo |
+| Biometric attendance roz submit karein | Proxy attendance dein |
+| School records confidential rakhein | Unauthorized log ko data dein |
+| Visitors ko properly register karein | Kisi ko bina check andar aane dein |
+| Polite tone maintain karein | Rude ya aggressive banen |
+| Uniform har waqt pehnen | Personal kaam school time mein karein |
+| Emergency mein turant report karein | Suspicious activity ignore karein |
+| Vehicle daily check karein (driver) | Driving ke dauran phone use karein |
 
 ---
 
-# PART 5: PARENTS / GUARDIANS KE LIYE NIYAM
-### (Sirf Parents/Guardians Par Laagu)
+# PART 5: ABHIVAAVAKOON KE LIYE NIYAM
+### (Hamare Sammanit Parents/Guardians — Aap Hamare Sachche Sahaabhagi Hain)
 
-## 1. School Mein Aane ke Niyam
+## 1. School Mein Aane Ke Niyam
 
-- School mein aane ke liye — pehle **office se appointment** lena zaroori
-- **Classroom mein direct jaana — allowed nahi**
-- Visitor ID/slip — Security gate par — **compulsory**
-- Early pickup — **written application + ID verification** compulsory
-- Unauthorized person (jo school record mein nahi) — **bachche ko nahi le ja sakta**
+- School mein aane ke liye — pehle **office se appointment** lena zaroori hai — yeh students ki padhaai protect karta hai
+- **Classroom mein seedha jaana — allowed nahi** — office se guide kiya jaayega
+- Visitor ID/slip — Security gate par — **compulsory** hai
+- Bachche ki early pickup — **written application + ID verification** compulsory hai
+- Unauthorized person (jo school record mein nahi) — **bachche ko nahi le ja sakta** — yeh security ke liye hai
 
 ## 2. Fees Payment Policy
 
-| Fee Type | Fine if Late |
+| Fee Ka Prakar | Late Fine |
 |---|---|
 | Monthly Tuition Fee | Rs. 50/- per day |
 | Transport Fee | Rs. 30/- per day |
 | Annual Charges | — |
 | Exam Fee | — |
 
-- Fee mode: Online / Cash / Cheque — **receipt lena compulsory**
+- Fee mode: Online / Cash / Cheque — **receipt lena compulsory** hai — apne records ke liye bhi
 - 2 mahine fees nahi bhari — **admission cancel** ho sakta hai
-- Fee concession — **formal application + documents** — April mein
+- Fee concession — **formal application + documents** ke saath — April mein apply karein
 
-## 3. Ghar Par Zimmedaariyan
+## 3. Ghar Par Aapki Zimmedaariyaan
 
-- Bachche ki **daily diary check karo** aur sign karo — roz
-- Homework mein help karo — **lekin khud mat karo unka kaam**
-- Bachche ko **healthy routine** maintain karne mein help karo
-- Bimaar ho toh school ko **same morning inform** karo
-- Bachche se **school ke baare mein daily baat** karo — problems sunno
-- Books, copies, stationery — **organized rakhne mein help** karo
+- Bachche ki **daily diary check karein** aur sign karein — roz — yeh aapka unse connect rehne ka tariqa hai
+- Homework mein help karein — lekin **khud mat karein unka kaam** — unhe seekhne ka mauka dein
+- Bachche ko **healthy routine** maintain karne mein help karein — neend, khana, khelna sab zaroori hai
+- Bimaar ho toh **same morning school ko inform** karein
+- Bachche se **school ke baare mein daily baat** karein — unki problems sunein, samjhein
+- Books, copies, stationery — **organized rakhne mein help** karein
 
-## 4. School ke Saath Zimmedaariyan
+## 4. School Ke Saath Aapki Zimmedaariyaan
 
-- **PTM mein zaroor aao** — proxy allowed nahi
-- Teachers ke feedback ko **positively lo** — defensive mat bano
-- School ke decisions ko **respect karo** — disagreement ho toh official channel use karo
-- Bachche ki absence ki **advance information** do
-- Emergency contact numbers — **hamesha updated** rakho school records mein
-- Ghar mein koi bada change ho — **confidentially school ko batao**
+- **PTM mein zaroor aayein** — proxy allowed nahi — aapki upasthiti bachche ka hausla badhati hai
+- Teachers ke feedback ko **positively lein** — woh aapke bachche ki bhalai ke liye hi kehte hain
+- School ke decisions ko **respect karein** — agar disagreement ho toh official channel use karein — seedha scene nahi
+- Bachche ki absence ki **advance information** dein
+- Emergency contact numbers — **hamesha updated** rakhein school records mein
+- Ghar mein koi bada change ho — **confidentially school ko batayein**
 
 ## 5. Communication Channel
 
-- **Official App / School Diary** — primary channel
-- **WhatsApp Group** — sirf school information — personal messages nahi
-- Complaint process: **Class Teacher → Vice Principal → Principal** — likhke dijiye
-- Complaints — **5 working days** mein resolve hongi
+- **Official App / School Diary** — primary aur preferred channel hai
+- **WhatsApp Group** — sirf school information ke liye — personal messages avoid karein
+- Complaint process: **Class Teacher → Vice Principal → Principal** — please likhke dijiye
+- Complaints — **5 working days** mein resolve ki jaayengi
 - Anonymous complaints — **suggestion box** mein daal sakte hain
 
-## 6. Parents ki Positive Involvement
+## 6. Parents Ki Positive Involvement — Aap Bhi Iss Parivaar Ka Hissa Hain!
 
-- **School Volunteer Program** — events mein help ke liye register kar sakte hain
-- **Parent Committee** — elected parents ka group — school improvement mein participate
-- **Sports Day, Annual Function** — attend zaroor karo — bachche ka confidence badhta hai
-- **Feedback form** — har term ke end mein — honestly fill karo
+- **School Volunteer Program** — events mein help ke liye register kar sakte hain — bahut achha lagta hai!
+- **Parent Committee** — elected parents ka group — school improvement mein constructively participate karein
+- **Sports Day, Annual Function** — please zaroor aayein — aapko dekhkar bachche ka confidence double ho jaata hai
+- **Feedback form** — har term ke end mein — honestly aur constructively fill karein — aapka feedback hamare liye valuable hai
 
-## ✅ Parents — Do's & Don'ts Summary
+## ✅ Parents — Karo & Mat Karo Ka Saraansh
 
-| ✅ Karo | ❌ Mat Karo |
+| ✅ Zaroor Karein | ❌ Please Avoid Karein |
 |---|---|
-| Daily diary check karo aur sign karo | Teachers ko social media par target karo |
-| PTM mein zaroor aao | School mein aake scenes karo |
-| Fees time pe bharo | 2 mahine fees rokke rakho |
-| Advance mein absence inform karo | Bina appointment classroom mein ghuso |
-| Emergency contact updated rakho | Bachche ke saamne school ki burai karo |
-| Teachers ka feedback positively lo | Marks mein manipulation ke liye pressure dalo |
-| School events mein aao, encourage karo | Unauthorized person ko bachche ke saath bhejo |
+| Daily diary check karein aur sign karein | Teachers ko social media par target karein |
+| PTM mein zaroor aayein | School mein aakar unnecessary scene karein |
+| Fees time pe bharein | 2 mahine fees rokke rakhein |
+| Advance mein absence inform karein | Bina appointment classroom mein jaayein |
+| Emergency contact updated rakhein | Bachche ke saamne school ki buraai karein |
+| Teachers ka feedback positively lein | Marks mein manipulation ke liye pressure daalein |
+| School events mein aayein, encourage karein | Unauthorized person ko bachche ke saath bhejein |
 
 ---
 
-# PART 6: DISCIPLINARY ACTION SYSTEM
-### (Sabke Liye — Koi Exception Nahi)
+# PART 6: ANUSHASAN PRANALI
+### (Sabke Liye Saman Roop Se — Koi Bhi Exception Nahi)
 
-## Misconduct Levels & Actions
+## Galti Ka Star & Karwaai
 
-| Level | Examples | Action |
+| Star | Udaaharan | Karwaai |
 |---|---|---|
-| **Level 1 — Minor** | Homework nahi, uniform violation, bina permission bahar jaana | Verbal warning + diary entry |
-| **Level 2 — Moderate** | Fighting, disrespect, property damage, lying | Written warning + parents call |
-| **Level 3 — Serious** | Bullying, repeated violations, exam cheating | Suspension 1–5 days + parent meeting |
-| **Level 4 — Severe** | Drugs, violence, sexual misconduct, theft | Immediate expulsion + police complaint |
-| **Repeat Offender** | Koi bhi repeated violation | Automatically next level |
+| **Star 1 — Choti Galti** | Homework nahi, uniform violation, bina permission bahar jaana | Pyaar se verbal warning + diary entry |
+| **Star 2 — Madhyam Galti** | Fighting, disrespect, property damage, jhooth bolna | Written warning + parents call |
+| **Star 3 — Gambheer Galti** | Bullying, repeated violations, exam cheating | Suspension 1–5 din + parent meeting |
+| **Star 4 — Atigambheer** | Drugs, violence, sexual misconduct, theft | Immediate expulsion + police complaint |
+| **Baar Baar Karna** | Koi bhi repeated violation | Automatically agla star laagu hoga |
 
 ## Appeal Process
 
-- Appeal — **Principal ko written mein 3 working days ke andar**
-- Principal — **3-member committee** banayenge
+- Appeal — **Principal ko writing mein 3 working days ke andar** dein
+- Principal — **3-member committee** banayenge jo fairly sunungi
 - Faisla — **7 working days** mein — final hoga
 - Legal matter bane toh — school apni policy ke hisaab se aage karega
 
-## 🏆 Reward System
+## 🏆 Achhe Kaam Ka Puraskar — Kyunki Aap Deserve Karte Hain!
 
-- ⭐ **Star Student of the Month** — academics + behaviour
+- ⭐ **Star Student of the Month** — academics + behaviour dono mein
 - 🎖️ **Best Attendance Award** — har term mein
-- 📜 **Principal's Merit Certificate** — outstanding achievement
-- 🏠 **House Points System** — nek kaam pe points milenge
-- 🏆 **Annual Prize Distribution** — best house ko trophy
+- 📜 **Principal's Merit Certificate** — outstanding achievement ke liye
+- 🏠 **House Points System** — nek kaam aur acche behaviour par points milenge
+- 🏆 **Annual Prize Distribution** — best house ko special trophy
 
 ---
 
-# PART 7: SAFETY & EMERGENCY RULES
-### (Sabke Liye)
+# PART 7: SURAKSHA & AAPAAT NIYAM
+### (Sabke Liye — Apni aur Doosron Ki Suraksha Hamaari Pehli Zimmedaari Hai)
 
-- School mein **CCTV cameras** hain — footage 30 din stored
-- **Fire drill** — regularly hogi — sabki attendance compulsory
-- Fire alarm pe: **Shant raho, walk karo, designated exit use karo**
+- School mein **CCTV cameras** available hain — footage 30 din tak stored rehti hai
+- **Fire drill** — regularly hogi — sabki compulsory attendance hai
+- Fire alarm bajne par: **Shant rahein, walk karein, designated exit use karein — bhagein mat**
 - Assembly point: **School ground ka northeast corner**
-- **Nurse room** available — school hours mein
-- Medical conditions (allergy, diabetes etc.) — **office ko written mein inform** karo
-- **Anti-Ragging Committee** active hai — anonymous complaint kar sakte hain
-- Complaint — **48 ghante mein investigate** ki jaayegi
+- **Nurse room** available hai — school hours mein — kisi bhi health problem par turant jaayein
+- Medical conditions (allergy, diabetes etc.) — **office ko writing mein pehle se inform** karein
+- **Anti-Ragging Committee** active aur vigilant hai — anonymous complaint bhi kar sakte hain
+- Complaint milne par — **48 ghante mein investigation** shuru ki jaayegi
 
 > *"Discipline is the bridge between goals and accomplishment."*
 >
-> **— Modern Age Public School Administration**
+> **— Modern Age Public School Administration, Mayurhand**
 >
-> *Hamara school ek parivaar hai — isko milke behtar banate hain.*`
+> *Hamara school ek parivaar hai — isko milke aur behtar banate hain. Aap sabka dil se shukriya ki aap is parivaar ka hissa hain.* 🙏`
 
 const sectionRanges = {
-  general: ['PRINCIPAL KA SANDESH', 'PART 2: STUDENTS KE LIYE NIYAM'],
-  teachers: ['PART 3: TEACHERS KE LIYE NIYAM', 'PART 4: NON-TEACHING STAFF KE LIYE NIYAM'],
-  staff: ['PART 4: NON-TEACHING STAFF KE LIYE NIYAM', 'PART 5: PARENTS / GUARDIANS KE LIYE NIYAM'],
-  parents: ['PART 5: PARENTS / GUARDIANS KE LIYE NIYAM', 'PART 6: DISCIPLINARY ACTION SYSTEM'],
+  general: ['PRINCIPAL KA SANDESH', 'PART 2: VIDYAARTHIYON KE LIYE VISHESH NIYAM'],
+  teachers: ['PART 3: SHIKSHAKOON KE LIYE VISHESH NIYAM', 'PART 4: NON-TEACHING STAFF KE LIYE NIYAM'],
+  staff: ['PART 4: NON-TEACHING STAFF KE LIYE NIYAM', 'PART 5: ABHIVAAVAKOON KE LIYE NIYAM'],
+  parents: ['PART 5: ABHIVAAVAKOON KE LIYE NIYAM', 'PART 6: ANUSHASAN PRANALI'],
 }
 
 const explanations = {
-  general: `....................`,
-  students: `Student-focused explanations highlight the educational rationale: attendance and punctuality are essential for steady learning and eligibility for exams. Classroom conduct expectations promote a productive learning atmosphere and mutual respect. Homework, library, and lab rules teach responsibility and academic integrity, while exam rules protect fairness. Sports and leadership roles build teamwork, health, and character. The penalties are designed to be proportional and to encourage corrective behaviour rather than only punitive measures.`,
-  teachers: `Teacher explanations emphasize professional responsibility: punctuality, lesson planning, and unbiased treatment ensure consistent learning for all students. Professional conduct and social-media guidance preserve the school's reputation and maintain healthy boundaries. Leave and exam duties maintain academic continuity; confidentiality and fair evaluation protect students' rights. These rules help teachers model the values taught to students.`,
-  staff: `Non-teaching staff explanations focus on operational reliability and safety. Administrative accuracy, confidentiality, and orderly visitor management keep school operations running smoothly. Housekeeping and security duties maintain a clean, safe campus. Drivers and transport staff have added safety responsibilities; following vehicle and student-safety checks prevents accidents and protects pupils during transit.`,
-  parents: `Parent explanations underline partnership: appointment-based visits respect instructional time and protect classroom privacy. Timely fee payment and accurate contact information support school operations. Positive engagement with teachers and following official communication channels help resolve issues constructively. Parents' cooperation with school schedules and rules reinforces learning and discipline at home.`,
-  disciplinary: `The disciplinary explanations describe a graduated response: minor infractions receive corrective warnings while serious or repeated violations lead to suspension or expulsion. An appeal process and a committee ensure fairness. Reward systems balance discipline by recognising positive behaviour and encouraging students to strive for excellence.`,
-  safety: `Safety explanations focus on prevention and preparedness: CCTV, drills, designated assembly points, medical response, and clear emergency contacts reduce risk. Reporting mechanisms (Anti-Ragging Committee, anonymous complaints) encourage early intervention. Regular checks and drills ensure everyone knows how to act calmly during emergencies.`,
+  general: `Yeh niyam hamare school ke sabhi sadasyoon ki suraksha, samman aur saaf mahaul ke liye banaye gaye hain. Ek achha mahaul tabhi banta hai jab hum sab milke apni zimmedaari samjhein aur nibhaayein.`,
+  students: `Priy students — yeh niyam aapko rok-toh ke liye nahi, balki aapke all-round development ke liye hain. Regular attendance, classroom discipline, aur honest behaviour — yeh sab aapko ek better student aur better insaan banate hain. Aap hamare school ka bhavishya hain!`,
+  teachers: `Hamare sammanit teachers — aap is school ki asli shakti hain. Yeh guidelines aapki professional integrity, students ke saath healthy relationship, aur school ki reputation banaye rakhne ke liye hain. Aapka role sirf syllabus complete karna nahi — aap role models hain.`,
+  staff: `Hamare mehnat-kash staff — aap school ki reedh hain. Bina aapke yeh school ek din bhi nahi chal sakta. Yeh niyam ensure karte hain ki school smooth, safe aur professionally chale — aur aap bhi respected mahsoos karein.`,
+  parents: `Hamare sammanit parents — aap hamare sachche sahaabhagi hain. Ghar par aapka support aur school ke niyamon ka respect — dono milke ek bachche ka future banate hain. Aapki active involvement hamare liye bahut valuable hai.`,
+  disciplinary: `Anushasan pranali ek graduated aur fair system hai — choti galtiyon par pyaar se samjhaya jaata hai jabki gambheer violations par strict action hota hai. Appeal process ensure karta hai ki koi bhi unfair action nahi hoga. Rewards system ensure karta hai ki achhe kaam ko bhi saman mahattva mila jaye.`,
+  safety: `Suraksha hamaari sabse badi priority hai. CCTV, fire drills, medical support, aur anonymous complaint system — sab milke ek safe campus ensure karte hain. Kisi bhi emergency mein shant rehna aur sahi steps follow karna sabse zaroori hai.`,
 }
 
 const getSectionMarkdown = (section) => {
@@ -521,26 +524,26 @@ const markdownComponents = {
     const headingText = typeof children === 'string' ? children : Array.isArray(children) ? children.join(' ') : String(children)
     const headingIdMap = {
       'PRINCIPAL KA SANDESH': 'principal-ka-sandesh',
-      'PART 1: GENERAL RULES': 'part-1-general-rules',
-      'PART 2: STUDENTS KE LIYE NIYAM': 'part-2-students-ke-liye-niyam',
-      'PART 3: TEACHERS KE LIYE NIYAM': 'part-3-teachers-ke-liye-niyam',
+      'PART 1: SAMANYA NIYAM': 'part-1-samanya-niyam',
+      'PART 2: VIDYAARTHIYON KE LIYE VISHESH NIYAM': 'part-2-vidyaarthiyon-ke-liye-vishesh-niyam',
+      'PART 3: SHIKSHAKOON KE LIYE VISHESH NIYAM': 'part-3-shikshakoon-ke-liye-vishesh-niyam',
       'PART 4: NON-TEACHING STAFF KE LIYE NIYAM': 'part-4-non-teaching-staff-ke-liye-niyam',
-      'PART 5: PARENTS / GUARDIANS KE LIYE NIYAM': 'part-5-parents-guardians-ke-liye-niyam',
-      'PART 6: DISCIPLINARY ACTION SYSTEM': 'part-6-disciplinary-action-system',
-      'PART 7: SAFETY & EMERGENCY RULES': 'part-7-safety-emergency-rules',
+      'PART 5: ABHIVAAVAKOON KE LIYE NIYAM': 'part-5-abhivaavakoon-ke-liye-niyam',
+      'PART 6: ANUSHASAN PRANALI': 'part-6-anushasan-pranali',
+      'PART 7: SURAKSHA & AAPAAT NIYAM': 'part-7-suraksha-aapaat-niyam',
     }
 
     const headingId = headingIdMap[headingText] ?? headingText.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
 
     const headingToKey = {
       'PRINCIPAL KA SANDESH': 'general',
-      'PART 1: GENERAL RULES': 'general',
-      'PART 2: STUDENTS KE LIYE NIYAM': 'students',
-      'PART 3: TEACHERS KE LIYE NIYAM': 'teachers',
+      'PART 1: SAMANYA NIYAM': 'general',
+      'PART 2: VIDYAARTHIYON KE LIYE VISHESH NIYAM': 'students',
+      'PART 3: SHIKSHAKOON KE LIYE VISHESH NIYAM': 'teachers',
       'PART 4: NON-TEACHING STAFF KE LIYE NIYAM': 'staff',
-      'PART 5: PARENTS / GUARDIANS KE LIYE NIYAM': 'parents',
-      'PART 6: DISCIPLINARY ACTION SYSTEM': 'disciplinary',
-      'PART 7: SAFETY & EMERGENCY RULES': 'safety',
+      'PART 5: ABHIVAAVAKOON KE LIYE NIYAM': 'parents',
+      'PART 6: ANUSHASAN PRANALI': 'disciplinary',
+      'PART 7: SURAKSHA & AAPAAT NIYAM': 'safety',
     }
 
     const explainKey = headingToKey[headingText]
