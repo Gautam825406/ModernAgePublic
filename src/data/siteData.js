@@ -1,6 +1,6 @@
 import annualDayImg from '../assets/anualday.jpg'
-import bannerHeroImg from '../assets/bannar.jpg'
-import campusImg from '../assets/campus.jpg'
+import bannerHeroImg from '../assets/bannar copy.jpg'
+import campusImg from '../assets/image.png'
 import classroomImg from '../assets/classroom.jpg'
 import campusLifeImg from '../assets/image.png'
 import heroLabImg from '../assets/hero.png'
